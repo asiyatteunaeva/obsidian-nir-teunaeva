@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "95f643b036e9c09d",
+    "type": "split",
+    "children": [
+      {
+        "id": "44ab7848cebd0e94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b36734b8eac8c4d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_Attachments/Лоу наглядно.png"
+              },
+              "icon": "lucide-image",
+              "title": "Лоу наглядно"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d6fd2d9877c2926",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fd9306080572663",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fb9817fe4272aa8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "dd6aa461820ca3ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "60e5354394d471d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f60219c0138d4fa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "884931689ceca369",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50bb58d1a829612b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "967125d27299cdac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "10157187153105da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "7f4ced0f9273069a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "3d8fd3a018cb8ac4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "65d679ef020fed78",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false,
+      "git-vault-sync:Git Vault Sync: синхронизировать хранилище": false,
+      "git-vault-sync:Git Vault Sync: просмотреть изменения и синхронизировать": false
+    }
+  },
+  "active": "2b36734b8eac8c4d",
+  "lastOpenFiles": [
+    "01_Literature/Franzon 2008.md",
+    "Без названия.base",
+    "01_Literature/Chaume 2012.md",
+    "Chaume 2012 - Audiovisual Translation Dubbing.md",
+    "01_Literature/Low 2003.md",
+    "01_Literature/Di Giovanni 2008.md",
+    "02_Notes/Принцип пятиборья Лоу.md",
+    "02_Notes/Субтитры как формат перевода песни.md",
+    "_Attachments/Лоу наглядно.png",
+    "00_Inbox/Без названия.md",
+    "01_Literature/Iitola 2017.md",
+    "02_Notes/Дубляж как формат перевода песни.md",
+    "02_Notes/Let It Go на разных языках.md",
+    "03_Projects/Проект. Дубляж vs субтитры в переводе песен мюзиклов.md",
+    "04_Drafts/Методология сопоставления.md",
+    "05_Output/Результаты.md",
+    "README.md",
+    "obsidian-nir-teunaeva/README.md",
+    "clone.md",
+    "obsidian-nir-teunaeva",
+    "л.md",
+    "_Attachments/л.md",
+    "Pasted image 20260926161112.png",
+    "Pasted image 20260926160720.png",
+    "Pasted image 20260926160750.png",
+    "_Attachments/Лоу,  схема использования наглядно.md",
+    "Pasted image 20260926160408.png",
+    "Pasted image 20260926155817.png",
+    "_Templates/Источник и год.md",
+    "01_Literature/Díaz-Cintas & Remael 2021.md",
+    "Pasted image 20260926155643.png",
+    "Franzon 2008 - три формата перевода песни.md",
+    "Без названия.md",
+    "_Attachments",
+    "_Templates",
+    "05_Output",
+    "04_Drafts",
+    "03_Projects",
+    "02_Notes",
+    "01_Literature",
+    "00_Inbox"
+  ]
+}

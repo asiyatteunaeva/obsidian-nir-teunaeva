@@ -1,0 +1,20 @@
+{
+  "remoteUrl": "https://github.com/asiyatteunaeva/obsidian-nir-teunaeva.git",
+  "branch": "main",
+  "authorName": "asiyatteunaeva",
+  "authorEmail": "asateunaeva8@gmail.com",
+  "username": "asiyatteunaeva",
+  "token": "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",
+  "commitMessage": "vault sync {{date}}",
+  "autoSyncEnabled": true,
+  "autoSyncInterval": 10,
+  "syncOnStartup": true,
+  "lastSyncAt": 1790515607255,
+  "excludePaths": ".obsidian/workspace.json\n.obsidian/workspace-mobile.json\n.DS_Store\n.trash/",
+  "language": "auto",
+  "syncEngine": "auto",
+  "apiBaseline": {
+    "commitSha": null,
+    "shas": {}
+  }
+}
