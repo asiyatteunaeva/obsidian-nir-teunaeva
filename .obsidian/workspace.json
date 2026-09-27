@@ -194,7 +194,7 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "obsidian-git:Open Git source control": false,
+      "obsidian-git:Open Git source control": true,
       "git-vault-sync:Git Vault Sync: синхронизировать хранилище": false,
       "git-vault-sync:Git Vault Sync: просмотреть изменения и синхронизировать": false
     }
