@@ -11,12 +11,14 @@
             "id": "2b36734b8eac8c4d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_Attachments/Лоу наглядно.png"
+                "file": "04_Drafts/Методология сопоставления.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Лоу наглядно"
+              "icon": "lucide-file",
+              "title": "Методология сопоставления"
             }
           }
         ]
@@ -201,6 +203,8 @@
   },
   "active": "2b36734b8eac8c4d",
   "lastOpenFiles": [
+    "03_Projects/Проект. Дубляж vs субтитры в переводе песен мюзиклов.md",
+    "_Attachments/Лоу наглядно.png",
     "01_Literature/Franzon 2008.md",
     "Без названия.base",
     "01_Literature/Chaume 2012.md",
@@ -209,12 +213,10 @@
     "01_Literature/Di Giovanni 2008.md",
     "02_Notes/Принцип пятиборья Лоу.md",
     "02_Notes/Субтитры как формат перевода песни.md",
-    "_Attachments/Лоу наглядно.png",
     "00_Inbox/Без названия.md",
     "01_Literature/Iitola 2017.md",
     "02_Notes/Дубляж как формат перевода песни.md",
     "02_Notes/Let It Go на разных языках.md",
-    "03_Projects/Проект. Дубляж vs субтитры в переводе песен мюзиклов.md",
     "04_Drafts/Методология сопоставления.md",
     "05_Output/Результаты.md",
     "README.md",
