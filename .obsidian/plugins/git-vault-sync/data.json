@@ -9,7 +9,7 @@
   "autoSyncEnabled": true,
   "autoSyncInterval": 10,
   "syncOnStartup": true,
-  "lastSyncAt": 1790680220347,
+  "lastSyncAt": 1790681422655,
   "excludePaths": ".obsidian/workspace.json\n.obsidian/workspace-mobile.json\n.DS_Store\n.trash/",
   "language": "auto",
   "syncEngine": "auto",
